@@ -1,20 +1,20 @@
 {
-    "version": "3.3.6",
+    "version": "3.4.0",
     "description": "Terminal multiplexer for Windows - tmux alternative for PowerShell and Windows Terminal",
     "homepage": "https://psmux.pages.dev",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/psmux/psmux/releases/download/v3.3.6/psmux-v3.3.6-windows-x64.zip",
-            "hash": "a56a890ea0829567818b9a368f16dcbd39c087f27328573df17c10dd39618947"
+            "url": "https://github.com/psmux/psmux/releases/download/v3.4.0/psmux-v3.4.0-windows-x64.zip",
+            "hash": "a66b6be7c13c6fa0dc3660a267b9e34eaa91a4eb7f07fbd55a0468018bd0f721"
         },
         "32bit": {
-            "url": "https://github.com/psmux/psmux/releases/download/v3.3.6/psmux-v3.3.6-windows-x86.zip",
-            "hash": "9b387fe03cbcc1ef671a5c3fbddaafe383089d82cea03c567980d8ed3de9ba82"
+            "url": "https://github.com/psmux/psmux/releases/download/v3.4.0/psmux-v3.4.0-windows-x86.zip",
+            "hash": "b1d5f037befaa4dca94280bf0559531d9bbbc2d03e66cbb4f47961f82a8fc0c1"
         },
         "arm64": {
-            "url": "https://github.com/psmux/psmux/releases/download/v3.3.6/psmux-v3.3.6-windows-arm64.zip",
-            "hash": "bf1e8bb9d624a2fe5cb09f6b5bb84e7f516cfd022efb677a2439f846a39f8f92"
+            "url": "https://github.com/psmux/psmux/releases/download/v3.4.0/psmux-v3.4.0-windows-arm64.zip",
+            "hash": "b123398e3b37408032bc268b4da6e7a6eab5b56461e0c3414914513a57a7a5cf"
         }
     },
     "bin": [
