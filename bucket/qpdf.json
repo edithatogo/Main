@@ -1,18 +1,18 @@
 {
-    "version": "12.3.2",
+    "version": "12.4.2",
     "description": "A command-line program that does structural, content-preserving transformations on PDF files.",
     "homepage": "https://qpdf.sourceforge.io",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/qpdf/qpdf/releases/download/v12.3.2/qpdf-12.3.2-msvc64.zip",
-            "hash": "8941870a604e7c87ed24566b038d46c24ce76616254d2383c578f60c0677f202",
-            "extract_dir": "qpdf-12.3.2-msvc64"
+            "url": "https://github.com/qpdf/qpdf/releases/download/v12.4.2/qpdf-12.4.2-msvc64.zip",
+            "hash": "db87077e683630c1217e0e8f9a20a9749d952ab676e881c3689187763a5de25d",
+            "extract_dir": "qpdf-12.4.2-msvc64"
         },
         "32bit": {
-            "url": "https://github.com/qpdf/qpdf/releases/download/v12.3.2/qpdf-12.3.2-msvc32.zip",
-            "hash": "3f9161ae1c98734122a1d93c4075722cddc20552859922d6bc52322828bd3e6f",
-            "extract_dir": "qpdf-12.3.2-msvc32"
+            "url": "https://github.com/qpdf/qpdf/releases/download/v12.4.2/qpdf-12.4.2-msvc32.zip",
+            "hash": "c4c62fbb5545090e80621a44e5b3063fb828e13b795c24aa637366b0e38ef8c0",
+            "extract_dir": "qpdf-12.4.2-msvc32"
         }
     },
     "bin": [
