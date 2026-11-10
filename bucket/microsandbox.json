@@ -1,5 +1,5 @@
 {
-    "version": "0.6.6",
+    "version": "0.7.14",
     "description": "Easy, fast, local microVMs for untrusted workloads.",
     "homepage": "https://microsandbox.dev",
     "license": "Apache-2.0",
@@ -9,12 +9,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/superradcompany/microsandbox/releases/download/v0.6.6/microsandbox-windows-x86_64.zip",
-            "hash": "f097e25aa63fa7a28b9de09607a892d4be7fd23427b8e7847f47ebc7528b9fd6"
+            "url": "https://github.com/superradcompany/microsandbox/releases/download/v0.7.14/microsandbox-windows-x86_64.zip",
+            "hash": "deb34a8e308b143c9387dca90f7b40a35a5dcb68948081a302ea3f3ca8282ef4"
         },
         "arm64": {
-            "url": "https://github.com/superradcompany/microsandbox/releases/download/v0.6.6/microsandbox-windows-aarch64.zip",
-            "hash": "d86bf42047ad3156e9c2f8cf80c61dd5b8c48788989104753c031ce441e5663e"
+            "url": "https://github.com/superradcompany/microsandbox/releases/download/v0.7.14/microsandbox-windows-aarch64.zip",
+            "hash": "ac6cb2369aaee38a448d2e3e112f8d76c39f3b1f6f05256b8ae9b6df7793cf63"
         }
     },
     "env_set": {
