@@ -1,5 +1,5 @@
 {
-    "version": "0.9.1",
+    "version": "0.11.0",
     "description": "Rust implementation of GNU findutils.",
     "homepage": "https://github.com/uutils/findutils",
     "license": {
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/uutils/findutils/releases/download/0.9.1/findutils-x86_64-pc-windows-msvc.zip",
-            "hash": "3cd96c5073a4fa2d913365a179327653bd038c646d4c613e93f8a4dc62e82be6"
+            "url": "https://github.com/uutils/findutils/releases/download/0.11.0/findutils-x86_64-pc-windows-msvc.zip",
+            "hash": "b1a8b28fbcdddad43da486df32f16e9c467f2a991282890810dbc5de4b895f7a"
         }
     },
     "bin": [
