@@ -1,5 +1,5 @@
 {
-    "version": "0.54.0",
+    "version": "0.59.0",
     "description": "A Rust-based CommonMark + GFM compatible Markdown parser and renderer.",
     "homepage": "https://comrak.ee",
     "license": {
@@ -11,12 +11,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/kivikakk/comrak/releases/download/v0.54.0/comrak-0.54.0-x86_64-pc-windows-msvc.exe#/comrak.exe",
-            "hash": "f197f0badfc480ef8a501d13cda16f6e6604f9a63626c5aac901125a31f2454a"
+            "url": "https://github.com/kivikakk/comrak/releases/download/v0.59.0/comrak-0.59.0-x86_64-pc-windows-msvc.exe#/comrak.exe",
+            "hash": "ac62328adb9344a11e19f7a5d641361bb29118fea56233f83acddd7eb4d0bb2c"
         },
         "arm64": {
-            "url": "https://github.com/kivikakk/comrak/releases/download/v0.54.0/comrak-0.54.0-aarch64-pc-windows-msvc.exe#/comrak.exe",
-            "hash": "1cbb75cb9277ea6624328ae6e693c933c538cd54609b83ad3f39c8aa550f79ae"
+            "url": "https://github.com/kivikakk/comrak/releases/download/v0.59.0/comrak-0.59.0-aarch64-pc-windows-msvc.exe#/comrak.exe",
+            "hash": "ba88fce620251d3c966814fa6ae77eeedcd57918ef0b0faf6d255d0227349fdd"
         }
     },
     "bin": "comrak.exe",
