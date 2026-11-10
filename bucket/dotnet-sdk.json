@@ -1,5 +1,5 @@
 {
-    "version": "10.0.301",
+    "version": "10.0.403",
     "description": ".NET is a free, cross-platform, open source developer platform for building many different types of applications.",
     "homepage": "https://www.microsoft.com/net/",
     "license": "MIT",
@@ -8,16 +8,16 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://builds.dotnet.microsoft.com/dotnet/Sdk/10.0.301/dotnet-sdk-10.0.301-win-x64.zip",
-            "hash": "sha512:38456e992c4df0ff0ac9fc5f28ff09a88543c0fc4e4deedffda9c4ebaf852c4519addacf28814ea77ea42ce2d37db812fae5ba1fe25f06364ca5a6027036387f"
+            "url": "https://builds.dotnet.microsoft.com/dotnet/Sdk/10.0.403/dotnet-sdk-10.0.403-win-x64.zip",
+            "hash": "sha512:7a114c318fa7f1d9822991b534b2814d0e78386ceda816b371f5141acefe741d87ccb606ede06cadac8f9ac5070e32b708a67bbd1619ff5e5a7858a27874ef48"
         },
         "32bit": {
-            "url": "https://builds.dotnet.microsoft.com/dotnet/Sdk/10.0.301/dotnet-sdk-10.0.301-win-x86.zip",
-            "hash": "sha512:19e3f1d05c45e741d8284a304aacc7256b464d8729d0e0fb10bc4e2b8bd44abacab69d4dfff3aa9fb7724bb569e43cd98146cfbd31cd4932ddbfc54cbe8b8d02"
+            "url": "https://builds.dotnet.microsoft.com/dotnet/Sdk/10.0.403/dotnet-sdk-10.0.403-win-x86.zip",
+            "hash": "sha512:5b5e61d1552c606868d7ce9003c8e77ec22f49d209db5beb3b2440ff99d70b9787a7c3fafba53f730f923575a4e8bc5c5ce0a56e0d3b80b5be0168745402a4fc"
         },
         "arm64": {
-            "url": "https://builds.dotnet.microsoft.com/dotnet/Sdk/10.0.301/dotnet-sdk-10.0.301-win-arm64.zip",
-            "hash": "sha512:cd2aabcf089d76c6f904e2b77ed06b9f397e105f8a9b8fb425ce6b8ab01413a01d59a1c298c58c627db3e8d197280825d7c2cfc8b8345a149ed5b86457cf5c5b"
+            "url": "https://builds.dotnet.microsoft.com/dotnet/Sdk/10.0.403/dotnet-sdk-10.0.403-win-arm64.zip",
+            "hash": "sha512:f78ecd8b48e24fd72ee604687b75f1bbb81505e8343f7d52e4baf9ea32372557eb30e88facaaad195bf2646fcce117fd941e49da0d5bdee1d60d63d836968429"
         }
     },
     "env_add_path": ".",
