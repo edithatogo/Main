@@ -1,5 +1,5 @@
 {
-    "version": "0.6.8",
+    "version": "0.6.16",
     "description": "A continuous benchmarking tool that tracks benchmark results over time and catches performance regressions in CI.",
     "homepage": "https://bencher.dev",
     "license": {
@@ -11,12 +11,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/bencherdev/bencher/releases/download/v0.6.8/bencher-v0.6.8-windows-x86-64.exe#/bencher.exe",
-            "hash": "0ebaf2e84a3e4985eaaaf16e5636af5a0ad3f75a7c6a9909a7b701dc7e45efd9"
+            "url": "https://github.com/bencherdev/bencher/releases/download/v0.6.16/bencher-v0.6.16-windows-x86-64.exe#/bencher.exe",
+            "hash": "d20c17ddfbeeaac0c81af56b273f9d2402ddb3ba5467b311d7483c2ff4c4d6c2"
         },
         "arm64": {
-            "url": "https://github.com/bencherdev/bencher/releases/download/v0.6.8/bencher-v0.6.8-windows-arm-64.exe#/bencher.exe",
-            "hash": "3949a62afa592eb84f72d0c97c99c78737e0b8e35cba6b6798708232318c3b04"
+            "url": "https://github.com/bencherdev/bencher/releases/download/v0.6.16/bencher-v0.6.16-windows-arm-64.exe#/bencher.exe",
+            "hash": "7ddebf45f0b80a908f19770e7b30dcdec53e251f50f708961a60cd781c66d0b2"
         }
     },
     "bin": "bencher.exe",
