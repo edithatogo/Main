@@ -1,12 +1,12 @@
 {
-    "version": "0.10.2",
+    "version": "0.10.4",
     "description": "Find files with SQL-like queries",
     "homepage": "https://github.com/jhspetersson/fselect",
     "license": "Apache-2.0|MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jhspetersson/fselect/releases/download/0.10.2/fselect-x86_64-win.zip",
-            "hash": "4c9a240db7b8f6dc5e976c53d8aae29f07130666781579048971610489769874"
+            "url": "https://github.com/jhspetersson/fselect/releases/download/0.10.4/fselect-x86_64-win.zip",
+            "hash": "a6eeff2b7d55d44cb6974d387fb925aa16da0db1a4a280888640200ec7cda364"
         }
     },
     "bin": "fselect.exe",
