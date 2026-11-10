@@ -1,16 +1,16 @@
 {
-    "version": "1.1.0",
+    "version": "1.3.4",
     "description": "Distributed graph issue tracker for AI agents, powered by Dolt.",
     "homepage": "https://gastownhall.github.io/beads",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gastownhall/beads/releases/download/v1.1.0/beads_1.1.0_windows_amd64.zip",
-            "hash": "12b1d37344d3b1543301e21a2b9ed3ab6ae009f0418441f3de5f762b40769a6b"
+            "url": "https://github.com/gastownhall/beads/releases/download/v1.3.4/beads_1.3.4_windows_amd64.zip",
+            "hash": "e66e7b66c0d1ac6a878951462edddb4a177532aff3fc22989daac115feaaef11"
         },
         "arm64": {
-            "url": "https://github.com/gastownhall/beads/releases/download/v1.1.0/beads_1.1.0_windows_arm64.zip",
-            "hash": "c2f3fc50407896336bafaab74e955f632fdfb487579fd24e44d766ab05792f7f"
+            "url": "https://github.com/gastownhall/beads/releases/download/v1.3.4/beads_1.3.4_windows_arm64.zip",
+            "hash": "51de3ebe5b60e7dc6d4fe2817c7085cd593a33ad78d8dae9ce0f054457d80547"
         }
     },
     "bin": "bd.exe",
