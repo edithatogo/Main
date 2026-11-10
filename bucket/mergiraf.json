@@ -1,12 +1,12 @@
 {
-    "version": "0.17.0",
+    "version": "0.20.0",
     "description": "A syntax-aware git merge driver",
     "homepage": "https://mergiraf.org",
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://codeberg.org/mergiraf/mergiraf/releases/download/v0.17.0/mergiraf_x86_64-pc-windows-gnu.zip",
-            "hash": "5d4e25512b4ec84216a82daffb56169e9daf1c057e363f72b06efdfce175be3f"
+            "url": "https://codeberg.org/mergiraf/mergiraf/releases/download/v0.20.0/mergiraf_x86_64-pc-windows-gnu.zip",
+            "hash": "4f5e77e973febda3cacd2b52f0c0b2756854e2bff1377af69159cf0aa4051397"
         }
     },
     "bin": "mergiraf.exe",
