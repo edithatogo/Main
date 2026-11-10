@@ -1,16 +1,16 @@
 {
-    "version": "6.0.1",
+    "version": "6.1.4",
     "description": "A tool for managing OCI containers and pods.",
     "homepage": "https://podman.io/",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/podman-container-tools/podman/releases/download/v6.0.1/podman-installer-windows-amd64.msi",
-            "hash": "3b65848f2d9ae652a15c35f2496a9ece2e07f28746fa651415d519ae7c5902ad"
+            "url": "https://github.com/podman-container-tools/podman/releases/download/v6.1.4/podman-installer-windows-amd64.msi",
+            "hash": "4a05240054cb990629cbe098db090c5c7848c44162c11910cabb45ca75a40d53"
         },
         "arm64": {
-            "url": "https://github.com/podman-container-tools/podman/releases/download/v6.0.1/podman-installer-windows-arm64.msi",
-            "hash": "855dd5b84105f69988ec6bba67889757c632cb930c32a7fa2f2f5cc1a99483ae"
+            "url": "https://github.com/podman-container-tools/podman/releases/download/v6.1.4/podman-installer-windows-arm64.msi",
+            "hash": "a1b65ffa7dd60a5eceedd3df7fc5d1d005b8d21018ff9deaa15aeacfbc92cd6c"
         }
     },
     "bin": "podman.exe",
