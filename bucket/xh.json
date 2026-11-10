@@ -1,13 +1,13 @@
 {
-    "version": "0.26.1",
+    "version": "0.26.3",
     "description": "Friendly and fast tool for sending HTTP requests",
     "homepage": "https://github.com/ducaale/xh/",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ducaale/xh/releases/download/v0.26.1/xh-v0.26.1-x86_64-pc-windows-msvc.zip",
-            "hash": "8bdd9cc00f03739294b9f3bc9214e2624bee89f7ba6dd55e65e6f53fd1ade388",
-            "extract_dir": "xh-v0.26.1-x86_64-pc-windows-msvc"
+            "url": "https://github.com/ducaale/xh/releases/download/v0.26.3/xh-v0.26.3-x86_64-pc-windows-msvc.zip",
+            "hash": "23d92fd78ff6a93c4e1c4de3a6b614bb8a31999acb441793630bcc37f9cd6c45",
+            "extract_dir": "xh-v0.26.3-x86_64-pc-windows-msvc"
         }
     },
     "bin": [
