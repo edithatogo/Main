@@ -1,5 +1,5 @@
 {
-    "version": "2.5.2",
+    "version": "2.7.0",
     "description": "Manage MEGA.nz account and files from command line.",
     "homepage": "https://mega.nz/cmd",
     "license": {
@@ -7,7 +7,7 @@
         "url": "https://github.com/meganz/MEGAcmd/blob/master/LICENSE"
     },
     "url": "https://mega.nz/MEGAcmdSetup.exe#/dl.7z",
-    "hash": "eb61cafa63ec369ae15a81610e6c67d27398893cae91b64e5fd87d632bf07724",
+    "hash": "56fab8ea266ac04bbe9ae04882ce0c5be8dca74dc9893f1f0ebe04e1dda4fb3b",
     "post_install": [
         "Remove-Item \"$dir\\`$*\", \"$dir\\unins*\" -Recurse",
         "$datapath = if ($global) { $env:APPDATA } else { $env:LOCALAPPDATA }",
