@@ -1,16 +1,16 @@
 {
     "homepage": "https://github.com/tristanisham/zvm",
-    "version": "0.8.27",
+    "version": "0.9.5",
     "description": "Zig Version Manager (zvm) is a tool for managing your Zig installs",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/tristanisham/zvm/releases/download/v0.8.27/zvm-windows-amd64.zip",
-            "hash": "bc82e7aace1ad9574bf53486ef54a6558ad5e0f35161aa90fda424b94cba7b4d"
+            "url": "https://github.com/tristanisham/zvm/releases/download/v0.9.5/zvm-windows-amd64.zip",
+            "hash": "dfe97cd7ded99c5538ff4b3fac175f8eaccadb3fbf2004ad41e408cf758ff827"
         },
         "arm64": {
-            "url": "https://github.com/tristanisham/zvm/releases/download/v0.8.27/zvm-windows-arm64.zip",
-            "hash": "f41fe165e13cb5366ee654469a5af3c63529fadce59c96e90263d51dfe735c74"
+            "url": "https://github.com/tristanisham/zvm/releases/download/v0.9.5/zvm-windows-arm64.zip",
+            "hash": "6883fe90fe2c90036e5b982cfc4a31656523a98a53355b23fd56017950473935"
         }
     },
     "bin": "zvm.exe",
