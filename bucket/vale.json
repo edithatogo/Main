@@ -1,12 +1,12 @@
 {
-    "version": "3.15.1",
+    "version": "3.26.0",
     "description": "A syntax-aware linter for prose",
     "homepage": "https://vale.sh",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/vale-cli/vale/releases/download/v3.15.1/vale_3.15.1_Windows_64-bit.zip",
-            "hash": "3395fca0ddfb10a9b6caa28e091d5df709b1d6b6579afb7dece852cad89b94f3"
+            "url": "https://github.com/vale-cli/vale/releases/download/v3.26.0/vale_3.26.0_Windows_64-bit.zip",
+            "hash": "c42f4b413aa29b6b36fa4e3ac0c18322588a54ac860db4c84b8255997f7d1ec2"
         }
     },
     "bin": "vale.exe",
