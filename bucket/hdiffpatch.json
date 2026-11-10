@@ -1,22 +1,22 @@
 {
-    "version": "5.0.1",
+    "version": "5.1.3",
     "description": "A C/C++ library and command-line tools for diff & patch between binary files or directories; cross-platform, runs fast, and creates small delta/differential patches.",
     "homepage": "https://github.com/sisong/HDiffPatch",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/sisong/HDiffPatch/releases/download/v5.0.1/hdiffpatch_v5.0.1_bin_windows64.zip",
-            "hash": "cdd04137f5ec813d7bb0bb7a697bc112867f19a020be4946325373f1bcf27cb3",
+            "url": "https://github.com/sisong/HDiffPatch/releases/download/v5.1.3/hdiffpatch_v5.1.3_bin_windows64.zip",
+            "hash": "77f141386e5d8f785c1c846e10fbbc19b6c05aa00e3f59cc44670fb3f0e2ae94",
             "extract_dir": "windows64"
         },
         "arm64": {
-            "url": "https://github.com/sisong/HDiffPatch/releases/download/v5.0.1/hdiffpatch_v5.0.1_bin_windows_arm64.zip",
-            "hash": "03628d8ef0e82fb9185e36d37a3062212a2967fd307fa12ab99be22a83fabaf8",
+            "url": "https://github.com/sisong/HDiffPatch/releases/download/v5.1.3/hdiffpatch_v5.1.3_bin_windows_arm64.zip",
+            "hash": "92a627a55ac1b9d54ca258a4e99919c09b9ee3c3674c494196a09a28f308eed7",
             "extract_dir": "windows_arm64"
         },
         "32bit": {
-            "url": "https://github.com/sisong/HDiffPatch/releases/download/v5.0.1/hdiffpatch_v5.0.1_bin_windows32.zip",
-            "hash": "20e0e2e8dd174ad8891565dc0e9983673ad885f0fa596018e4435328610fe7f9",
+            "url": "https://github.com/sisong/HDiffPatch/releases/download/v5.1.3/hdiffpatch_v5.1.3_bin_windows32.zip",
+            "hash": "de9107d1a9a33d029979c3975c0c81b3355bdab5b54d6e0f340c8df62736dde5",
             "extract_dir": "windows32"
         }
     },
