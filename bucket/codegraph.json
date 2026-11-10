@@ -1,17 +1,17 @@
 {
-    "version": "1.4.1",
+    "version": "1.6.2",
     "description": "A local-first code-intelligence tool that turns any codebase into a queryable knowledge graph for AI coding agents.",
     "homepage": "https://colbymchenry.github.io/codegraph/",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/colbymchenry/codegraph/releases/download/v1.4.1/codegraph-win32-x64.zip",
-            "hash": "559cb1010b7899b5137f0801d35698f722a33370e907a84968852d3d68f6458d",
+            "url": "https://github.com/colbymchenry/codegraph/releases/download/v1.6.2/codegraph-win32-x64.zip",
+            "hash": "7455e817ee8032666867a1badeb799b8a884c5f4fea9b444e088a02069b6deea",
             "extract_dir": "codegraph-win32-x64"
         },
         "arm64": {
-            "url": "https://github.com/colbymchenry/codegraph/releases/download/v1.4.1/codegraph-win32-arm64.zip",
-            "hash": "1adaf3ec30143996fc1a240f4399b4cd82eb494b29240b103444b1f78f4c7b95",
+            "url": "https://github.com/colbymchenry/codegraph/releases/download/v1.6.2/codegraph-win32-arm64.zip",
+            "hash": "308f7bf92e7886f4d5f767a4755d703e92d5cae78ac042b8907f1e99db0fc071",
             "extract_dir": "codegraph-win32-arm64"
         }
     },
