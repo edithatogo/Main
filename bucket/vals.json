@@ -1,16 +1,16 @@
 {
-    "version": "0.44.4",
+    "version": "0.51.0",
     "description": "Helm-like configuration values loader with support for various sources",
     "homepage": "https://github.com/helmfile/vals",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/helmfile/vals/releases/download/v0.44.4/vals_0.44.4_windows_amd64.tar.gz",
-            "hash": "a9978bb72f867b2ec81e573dda1e360058e1513e4c3f60b2a53a6bdedced235f"
+            "url": "https://github.com/helmfile/vals/releases/download/v0.51.0/vals_0.51.0_windows_amd64.tar.gz",
+            "hash": "44eaf6568ec2b0a78ba9989d0861c2b0597992e5e56cfc789d1bf51a3edaca3c"
         },
         "32bit": {
-            "url": "https://github.com/helmfile/vals/releases/download/v0.44.4/vals_0.44.4_windows_386.tar.gz",
-            "hash": "7d3163cdc3ea1adc081125636948f6f9d1803de2ddad84184e8090139144dc3c"
+            "url": "https://github.com/helmfile/vals/releases/download/v0.51.0/vals_0.51.0_windows_386.tar.gz",
+            "hash": "d83df88569c4334cd432958a2f141635e8f485362e7c2958a346b5dec5b503c5"
         }
     },
     "bin": "vals.exe",
