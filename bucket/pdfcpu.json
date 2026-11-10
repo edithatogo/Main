@@ -1,18 +1,18 @@
 {
-    "version": "0.13.0",
+    "version": "0.16.4",
     "description": "A PDF processor written in Go, supporting encryption.",
     "homepage": "https://pdfcpu.io",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.13.0/pdfcpu_0.13.0_Windows_x86_64.zip",
-            "hash": "53add9ba4bd6fa754e0e12a856c7ede6030a17b67d49f634ae1011424d75fced",
-            "extract_dir": "pdfcpu_0.13.0_Windows_x86_64"
+            "url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.4/pdfcpu_0.16.4_Windows_x86_64.zip",
+            "hash": "faf6c51d6f54d96a8c1ad5beee02143460b8ae97bd9630cbab1a253adaa43558",
+            "extract_dir": "pdfcpu_0.16.4_Windows_x86_64"
         },
         "32bit": {
-            "url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.13.0/pdfcpu_0.13.0_Windows_i386.zip",
-            "hash": "d281831e93a0bada33df283b95a3cb139373aacbee3b2fadf387ab00994b89e2",
-            "extract_dir": "pdfcpu_0.13.0_Windows_i386"
+            "url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.16.4/pdfcpu_0.16.4_Windows_i386.zip",
+            "hash": "65c6881d7a03978d15ba9321ece8cb4114784d30c1a3ce3627a1670c7ba5aef0",
+            "extract_dir": "pdfcpu_0.16.4_Windows_i386"
         }
     },
     "bin": "pdfcpu.exe",
