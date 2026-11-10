@@ -1,20 +1,20 @@
 {
-    "version": "0.29.9",
+    "version": "0.39.3",
     "description": "The worlds fastest OpenAPI 3, OpenAPI 2 / Swagger linter and quality analysis tool.",
     "homepage": "https://quobix.com/vacuum/",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/daveshanley/vacuum/releases/download/v0.29.9/vacuum_0.29.9_windows_x86_64.tar.gz",
-            "hash": "dd3378bc97a6e2e9296765e8853695f04cc75b980969bbff16de0f80ec0b4a2b"
+            "url": "https://github.com/daveshanley/vacuum/releases/download/v0.39.3/vacuum_0.39.3_windows_x86_64.tar.gz",
+            "hash": "f7807a0dc54acd62a3a8c787aaad813ab415fa9c1e716097367782e188c90b88"
         },
         "32bit": {
-            "url": "https://github.com/daveshanley/vacuum/releases/download/v0.29.9/vacuum_0.29.9_windows_i386.tar.gz",
-            "hash": "701914bc46f54b90a44d736206572f646b0423ce76d95c6b255576a7b20f59f8"
+            "url": "https://github.com/daveshanley/vacuum/releases/download/v0.39.3/vacuum_0.39.3_windows_i386.tar.gz",
+            "hash": "94c2b35c15372176a90bc0ef15b02eb1ee772178133b83e6f3b8893514d69bdc"
         },
         "arm64": {
-            "url": "https://github.com/daveshanley/vacuum/releases/download/v0.29.9/vacuum_0.29.9_windows_arm64.tar.gz",
-            "hash": "32eb623ebdd83b305a937f8e1e0af5154be53f7071ebcbe4fc248e9068fef493"
+            "url": "https://github.com/daveshanley/vacuum/releases/download/v0.39.3/vacuum_0.39.3_windows_arm64.tar.gz",
+            "hash": "3d8d2d7811ed044c6c1576d46a5a01b3fb7bebf1f78921a8a179be95a74da089"
         }
     },
     "bin": "vacuum.exe",
