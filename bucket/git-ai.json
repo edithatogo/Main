@@ -1,5 +1,5 @@
 {
-    "version": "1.6.12",
+    "version": "1.7.6",
     "description": "An open source git extension that tracks AI-generated code in your repositories, linking every AI-written line to the agent, model, and transcripts that generated it.",
     "homepage": "https://usegitai.com",
     "license": "Apache-2.0",
@@ -8,12 +8,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/git-ai-project/git-ai/releases/download/v1.6.12/git-ai-windows-x64.exe#/git-ai.exe",
-            "hash": "f98f6648cddd6949206a2bcc075e495b0f617603795cc1bc3ae88213ab61741d"
+            "url": "https://github.com/git-ai-project/git-ai/releases/download/v1.7.6/git-ai-windows-x64.exe#/git-ai.exe",
+            "hash": "57c5a8eea75bee6f09467fb17b63a657859ae1d82210d6382e4cc27752a90ddb"
         },
         "arm64": {
-            "url": "https://github.com/git-ai-project/git-ai/releases/download/v1.6.12/git-ai-windows-arm64.exe#/git-ai.exe",
-            "hash": "d7fa7bf172802e979cb9326b76141f865f36c6de618d2e965ee6c021c5b84060"
+            "url": "https://github.com/git-ai-project/git-ai/releases/download/v1.7.6/git-ai-windows-arm64.exe#/git-ai.exe",
+            "hash": "783de0f3f01c2f3f34562d7331ed89d4058d76dc4af6ba12ac3a8eb62f866625"
         }
     },
     "bin": "git-ai.exe",
