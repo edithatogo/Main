@@ -1,16 +1,16 @@
 {
-    "version": "1.2.0",
+    "version": "1.4.2",
     "description": "Command-line DNS Client for Humans",
     "homepage": "https://doggo.mrkaran.dev/",
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/mr-karan/doggo/releases/download/v1.2.0/doggo-windows-x86_64.zip",
-            "hash": "a84f677f7596c320f419cdc035adb64e89def37fb1ee6c57500a39742024e664"
+            "url": "https://github.com/mr-karan/doggo/releases/download/v1.4.2/doggo-windows-x86_64.zip",
+            "hash": "d3dcf3e3ff233acca443027f4cf072be6b331f0301f0ac3674d4de8802438791"
         },
         "32bit": {
-            "url": "https://github.com/mr-karan/doggo/releases/download/v1.2.0/doggo-windows-i386.zip",
-            "hash": "35388ff89c90e0f22beecc70a9fad38daa88c30768655fa3cea07462abc80969"
+            "url": "https://github.com/mr-karan/doggo/releases/download/v1.4.2/doggo-windows-i386.zip",
+            "hash": "68fcd8b8d0bd6ce88f60660446ec71ebdbfe9a3e2890e3454511a5dc02c1f49b"
         }
     },
     "bin": "doggo.exe",
