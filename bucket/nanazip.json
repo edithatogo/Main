@@ -1,16 +1,16 @@
 {
-    "version": "6.5.1767.0",
+    "version": "7.0.1882.0",
     "description": "The 7-Zip derivative intended for the modern Windows experience",
     "homepage": "https://github.com/M2Team/NanaZip",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/M2Team/NanaZip/releases/download/6.5.1767.0/NanaZip_6.5.1767.0.msixbundle#/dl.7z",
-            "hash": "606bba9cd7f3a8805bb89c6669e0abfd67a705ddc98939148afedefeed520b9c"
+            "url": "https://github.com/M2Team/NanaZip/releases/download/7.0.1882.0/NanaZip_7.0.1882.0.msixbundle#/dl.7z",
+            "hash": "c32c33e5a59a0d02db89f1e85889f942cd7b22ad81110289214187c20e2b6168"
         },
         "arm64": {
-            "url": "https://github.com/M2Team/NanaZip/releases/download/6.5.1767.0/NanaZip_6.5.1767.0.msixbundle#/dl.7z",
-            "hash": "606bba9cd7f3a8805bb89c6669e0abfd67a705ddc98939148afedefeed520b9c"
+            "url": "https://github.com/M2Team/NanaZip/releases/download/7.0.1882.0/NanaZip_7.0.1882.0.msixbundle#/dl.7z",
+            "hash": "c32c33e5a59a0d02db89f1e85889f942cd7b22ad81110289214187c20e2b6168"
         }
     },
     "pre_install": [
