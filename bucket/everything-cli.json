@@ -1,5 +1,5 @@
 {
-    "version": "1.1.0.37",
+    "version": "1.1.1.39",
     "description": "Command line interface to Everything (also known as ES).",
     "homepage": "https://www.voidtools.com/support/everything/command_line_interface/",
     "license": "MIT",
@@ -8,16 +8,16 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/voidtools/ES/releases/download/1.1.0.37/ES-1.1.0.37.x64.zip",
-            "hash": "7a57670d9152068d05876c58858c82fe6d3915a9df2c819f4de8801e2929d3a7"
+            "url": "https://github.com/voidtools/ES/releases/download/1.1.1.39/ES-1.1.1.39.x64.zip",
+            "hash": "f3a951f7d27843b128600f7213a97f77ea399be15c63d2a0bde703f1c28848b9"
         },
         "32bit": {
-            "url": "https://github.com/voidtools/ES/releases/download/1.1.0.37/ES-1.1.0.37.x86.zip",
-            "hash": "35f8fe8c92b44d834cf51239ee345927e44d33c6c86d64b756990b066fa0da47"
+            "url": "https://github.com/voidtools/ES/releases/download/1.1.1.39/ES-1.1.1.39.x86.zip",
+            "hash": "304d605385a71d6663ec6e23d8ae308b856d9cefff865dbc8e2e5a321d048c9a"
         },
         "arm64": {
-            "url": "https://github.com/voidtools/ES/releases/download/1.1.0.37/ES-1.1.0.37.ARM64.zip",
-            "hash": "774dba860c3cecab95de43c95266754adfc8e92c7c59d6564a3b5dbaeb20dca8"
+            "url": "https://github.com/voidtools/ES/releases/download/1.1.1.39/ES-1.1.1.39.ARM64.zip",
+            "hash": "04e8c0de3422ac664d02ee829119e518cd26976ea18f35d96dea3e8195a47e5b"
         }
     },
     "pre_install": [
