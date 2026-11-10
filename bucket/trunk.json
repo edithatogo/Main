@@ -1,12 +1,12 @@
 {
-    "version": "0.21.14",
+    "version": "0.22.1",
     "description": "Build, bundle & ship your Rust WASM application to the web.",
     "homepage": "https://trunkrs.dev/",
     "license": "MIT|Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/trunk-rs/trunk/releases/download/v0.21.14/trunk-x86_64-pc-windows-msvc.zip",
-            "hash": "cd6ac15b9daff0365e5695036791ef2ce3c63f61c014f5a8c532363266e4569c"
+            "url": "https://github.com/trunk-rs/trunk/releases/download/v0.22.1/trunk-x86_64-pc-windows-msvc.zip",
+            "hash": "1cc65012a9df60b02db948f5a3f0601e594ce952efb1cfd23147c9021c9f7d75"
         }
     },
     "bin": "trunk.exe",
