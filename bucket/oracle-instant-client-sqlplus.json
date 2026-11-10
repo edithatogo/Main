@@ -1,5 +1,5 @@
 {
-    "version": "23.26.2.0.0",
+    "version": "23.26.4.0.0",
     "description": "The SQL*Plus command line tool for SQL and PL/SQL queries with Oracle Instant Client.",
     "homepage": "https://www.oracle.com/database/technologies/instant-client.html",
     "license": {
@@ -9,8 +9,8 @@
     "depends": "oracle-instant-client",
     "architecture": {
         "64bit": {
-            "url": "https://download.oracle.com/otn_software/nt/instantclient/2326200/instantclient-sqlplus-windows.x64-23.26.2.0.0.zip",
-            "hash": "a570c6116bfc684f4efa01389daba0cb9aaa5126581bf6280d603e974ca5d38f"
+            "url": "https://download.oracle.com/otn_software/nt/instantclient/2326400/instantclient-sqlplus-windows.x64-23.26.4.0.0.zip",
+            "hash": "e3600a5a56cf174232731f0874cf9f9cb4a6b0334a68fae9b585dc40ab244b05"
         }
     },
     "extract_to": "_EXTRACTED",
