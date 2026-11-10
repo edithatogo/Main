@@ -1,5 +1,5 @@
 {
-    "version": "0.19.0",
+    "version": "0.28.0",
     "description": "A code review TUI with vim keybindings. Export to GitHub or clipboard.",
     "homepage": "https://tuicr.dev",
     "license": "MIT",
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/agavra/tuicr/releases/download/v0.19.0/tuicr-0.19.0-x86_64-pc-windows-msvc.zip",
-            "hash": "6458c35445cf86aa5b2d6eed7a28ff5b9d75984300c80fb3903cf30775ba8c50"
+            "url": "https://github.com/agavra/tuicr/releases/download/v0.28.0/tuicr-0.28.0-x86_64-pc-windows-msvc.zip",
+            "hash": "444dcaf70575f2566c96b4e67215696676d720c796ea306a6f3595a10dbb1aee"
         }
     },
     "bin": "tuicr.exe",
