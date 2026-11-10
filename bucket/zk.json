@@ -1,12 +1,12 @@
 {
-    "version": "0.15.5",
+    "version": "0.15.7",
     "description": "A plain text note-taking assistant.",
     "homepage": "https://zk-org.github.io/zk",
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/zk-org/zk/releases/download/v0.15.5/zk-v0.15.5-windows-x86_64.tar.gz",
-            "hash": "64858cac1e8a6a3a486ef0cc6df1a4c6148e9766f1361e5d750eade3cb045b57"
+            "url": "https://github.com/zk-org/zk/releases/download/v0.15.7/zk-v0.15.7-windows-x86_64.tar.gz",
+            "hash": "ccb8364a89c4998be8278afc296c812a6d6ffea6b27db238f4ea408e83d8a3e3"
         }
     },
     "bin": "zk.exe",
