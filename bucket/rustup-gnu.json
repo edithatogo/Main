@@ -1,5 +1,5 @@
 {
-    "version": "1.29.0",
+    "version": "1.29.3",
     "description": "Manage multiple rust installations with ease",
     "homepage": "https://rustup.rs",
     "license": "MIT|Apache-2.0",
@@ -7,15 +7,15 @@
     "architecture": {
         "64bit": {
             "url": "https://static.rust-lang.org/rustup/dist/x86_64-pc-windows-msvc/rustup-init.exe",
-            "hash": "86478e53f769379d7f0ebfa7c9aa97cb76ca92233f79aa2cc0dbee2efaac73c7"
+            "hash": "38027d51d69a5d05493627a0634dbea52d6cd793c8f072d2373d3f4163eec7db"
         },
         "32bit": {
             "url": "https://static.rust-lang.org/rustup/dist/i686-pc-windows-msvc/rustup-init.exe",
-            "hash": "f574ea2bd6d798b6072b3a45e3053f3cabcc2cb48d6b4bd59b661b41d675b31a"
+            "hash": "fa448cc3839d6fbacb5ed1954c16f60c4d16e7e6476677a66fffb34dc91bd201"
         },
         "arm64": {
             "url": "https://static.rust-lang.org/rustup/dist/aarch64-pc-windows-msvc/rustup-init.exe",
-            "hash": "3af309e6c3062aa11df0e932954f69d13b734d8a431e593812f3ecd9ff9e6ef6"
+            "hash": "407e0d72f81d26a01f9d032b8317908cbb2917ba22765474b682b41390792ad9"
         }
     },
     "installer": {
