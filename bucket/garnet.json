@@ -1,5 +1,5 @@
 {
-    "version": "1.1.10",
+    "version": "2.2.10",
     "description": "A high-performance cache-store from Microsoft Research.",
     "homepage": "https://microsoft.github.io/garnet",
     "license": "MIT",
@@ -17,12 +17,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/microsoft/garnet/releases/download/v1.1.10/win-x64-based-readytorun.zip",
-            "hash": "f0154f47185b4231578fa9e9fa0e53d6ce939dc945c5a2a8ec494aea654f9573"
+            "url": "https://github.com/microsoft/garnet/releases/download/v2.2.10/win-x64-based-readytorun.zip",
+            "hash": "e4766e78885b594dbb1636aacbc573236c34aebf14783eba1296e5edac5a9b58"
         },
         "arm64": {
-            "url": "https://github.com/microsoft/garnet/releases/download/v1.1.10/win-arm64-based-readytorun.zip",
-            "hash": "9d1878bc51c1fd3c1175d3e3013ff074a91e307471a9be7c013555cbdc60438c"
+            "url": "https://github.com/microsoft/garnet/releases/download/v2.2.10/win-arm64-based-readytorun.zip",
+            "hash": "a26f21dff19d3f97f8ea7b86bbf984a54a04f0923bf0cdca4750806885296130"
         }
     },
     "extract_dir": "net10.0",
