@@ -1,16 +1,16 @@
 {
-    "version": "0.1.5",
+    "version": "0.1.16",
     "description": "A terminal-native AI coding assistant built by Xiaomi MiMo.",
     "homepage": "https://mimo.xiaomi.com/mimocode",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/XiaomiMiMo/MiMo-Code/releases/download/v0.1.5/mimocode-windows-x64.zip",
-            "hash": "604ee70010de82519765eb9f0728313c498c6eb5717a1640c73dae844a7161e1"
+            "url": "https://github.com/XiaomiMiMo/MiMo-Code/releases/download/v0.1.16/mimocode-windows-x64.zip",
+            "hash": "cebf70eb32877db4aef0e27f9194aca0147506dc2ada1d05c6547c0c90d604d1"
         },
         "arm64": {
-            "url": "https://github.com/XiaomiMiMo/MiMo-Code/releases/download/v0.1.5/mimocode-windows-arm64.zip",
-            "hash": "db0c5b62296e46f2fbb03e8e8bcc6e7977605345624337537b31cb682ddc6b80"
+            "url": "https://github.com/XiaomiMiMo/MiMo-Code/releases/download/v0.1.16/mimocode-windows-arm64.zip",
+            "hash": "3a22443ed9a8160d4ceff930c3d59ab182fdb6eac7e05f00f5a441ffbc3e132f"
         }
     },
     "bin": "mimo.exe",
