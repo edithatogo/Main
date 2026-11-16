@@ -1,18 +1,18 @@
 {
-    "version": "1.11.5.20250706",
+    "version": "1.12.2.20261116",
     "description": "Collection of programs for accessing Mega.nz service from a command line.",
     "homepage": "https://xff.cz/megatools",
     "license": "GPL-2.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://xff.cz/megatools/builds/builds/megatools-1.11.5.20250706-win64.zip",
-            "hash": "bd1269e50d9c45e369c14e287c1754c9506e1b11efcc0cd4bb95d460c9d782b5",
-            "extract_dir": "megatools-1.11.5.20250706-win64"
+            "url": "https://xff.cz/megatools/builds/builds/megatools-1.12.2.20261116-win64.zip",
+            "hash": "43d5238f64cca11d66fc1e4b2d995c01d4cfbe2dba79fbdfe46d1913df68f611",
+            "extract_dir": "megatools-1.12.2.20261116-win64"
         },
         "32bit": {
-            "url": "https://xff.cz/megatools/builds/builds/megatools-1.11.5.20250706-win32.zip",
-            "hash": "b226ad80f52b786abeeaea70bb2ce87bd445d3750c1dea0906d0de939428e09f",
-            "extract_dir": "megatools-1.11.5.20250706-win32"
+            "url": "https://xff.cz/megatools/builds/builds/megatools-1.12.2.20261116-win32.zip",
+            "hash": "99962b235feba4fd9e441492b76cee752645298b0feb73d5cfcb5ed3195cf6ac",
+            "extract_dir": "megatools-1.12.2.20261116-win32"
         }
     },
     "bin": "megatools.exe",
